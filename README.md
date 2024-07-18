@@ -8,7 +8,7 @@ This Excel project is a part of my data analyst portfolio. It utilizes data from
    - This sheet contains the main dashboard summarizing the key insights and visualizations from the data.
 
 2. **Contents:**
-   - This sheet (the current one) provides an overview and explanation of the project and the contents of each sheet.
+   - This sheet provides an overview and explanation of the project and the contents of each sheet.
 
 3. **Orders:**
    - Contains raw data of coffee orders.
