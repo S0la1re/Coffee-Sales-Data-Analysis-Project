@@ -1,6 +1,6 @@
 # Coffee Sales Data Analysis Project
 
-This Excel project is a part of my data analyst portfolio. It utilizes data from Mo Chen's GitHub repository (Mo Chen is a data analyst and YouTuber). The source of the data can be found [here](https://github.com/mochen862/excel-project-coffee-sales/blob/main/coffeeOrdersData.xlsx).
+This project aims to demonstrating my proficiency in Excel as a data analysis tool. This project demonstrates various data manipulation, cleaning, and visualization techniques. The project uses data from Mo Chen's GitHub repository. (Mo Chen is a data analyst and YouTuber). The source of the data can be found [here](https://github.com/mochen862/excel-project-coffee-sales/blob/main/coffeeOrdersData.xlsx).
 
 ## Sheet Descriptions:
 
@@ -36,5 +36,3 @@ This Excel project is a part of my data analyst portfolio. It utilizes data from
 
 11. **KPIs:**
     - Key Performance Indicators derived from the data, used for performance measurement and analysis.
-
-This structured approach showcases various data manipulation, cleaning, and visualization techniques, demonstrating my proficiency in Excel as a data analysis tool.
